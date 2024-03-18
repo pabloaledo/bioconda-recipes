@@ -36,4 +36,6 @@ about:
 extra:
   identifiers:
     - biotools:biocgenerics
+  additional-platforms:
+    - linux-aarch64
 
